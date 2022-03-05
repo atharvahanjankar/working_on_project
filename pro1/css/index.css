@@ -1,0 +1,16 @@
+.navbarStyle{
+    background-color: #0b0e389c;
+    
+}
+ul{
+ list-style:none;
+}
+li  a{
+    text-decoration: none;
+    color: aqua;
+    font-family:Harrington;
+    margin-left:4px;
+}
+li{
+    display: inline;
+}
